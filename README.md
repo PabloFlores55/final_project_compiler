@@ -44,6 +44,10 @@ Passed: 3 Failed: 3
 
 Ese resultado significa que el proyecto base **compila y está listo para usar**. Los 3 fallos son esperados porque corresponden al módulo `WHERE` que debés implementar.
 
+## Resultado final — Serie 2 implementada
+
+![Tests passing](README.png)
+
 ## Restricciones
 
 - Mantener Java 8.
